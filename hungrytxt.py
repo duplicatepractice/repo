@@ -6,4 +6,5 @@ if hungry in ["yes","Y","y","Yes"]:
 else:
     print("drink some water")
     print("drink jira water")
+    print("drink soda water")
     print("Do your homework")
