@@ -4,4 +4,5 @@ if hungry in ["yes","Y","y"]:
     print("Eat idly")
     print("Ea sambar")
 else:
+    print(""drink some water")
     print("Do your homework")
